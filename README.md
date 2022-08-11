@@ -1,16 +1,18 @@
-### Hi there 👋
+# whoami
 
-<!--
-**zrgio/zrgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I'm Sergio (stylized `zrgio`), I'm a software and hardware developer from Chile :chile:
 
-Here are some ideas to get you started:
+Currently I'm suffering my way trough university, and enjoy learning more about my hobbies in my free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I know
+
+When it comes to hardware, I'm experienced with 3D desing, circuit & PCB design, embedded development, and a tad of product design.
+
+But nowadays, since electronics are expensive when you're only a student, I mostly focus on sofware development. My language of choice is Go, but I also know Python and I'm somewhat experienced with C++.
+
+## What I'm currently learning
+
+- SvelteJS
+- TailwindCSS
+- TypeScript
+- Docker
