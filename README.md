@@ -2,7 +2,7 @@
 
 Hey there, I'm Sergio (stylized `zrgio`), I'm a software and hardware developer from Chile :chile:
 
-Currently I'm suffering my way trough university, and enjoy learning more about my hobbies in my free time
+Currently looking for a job, and learning more about my hobbies in my free time
 
 ## What I know
 
